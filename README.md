@@ -44,9 +44,9 @@ I'm a System Engineering student at the Universidad de Antioquia. I am expanding
 <a href="https://instagram.com/bryan_medranoo/" target="_blank">
   <img align="center" alt="Bryan Medrano | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/share/15KWS8VPHf/" >
-  <img align="center" alt="Bryan Medrano | Facebook" width="26px" src="https://w7.pngwing.com/pngs/826/632/png-transparent-facebook-meta-facebook-logo-facebook-meta-social-media-app-3d-icon-thumbnail.png" />
-</a> &nbsp;&nbsp;
+<!--<a href="https://www.facebook.com/share/15KWS8VPHf/" >
+  <img align="center" alt="Bryan Medrano | Facebook" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegAMYbq3YGpEEFJSRgMyAfga3tfX5oCdCNg&s" />
+</a> &nbsp;&nbsp; -->
 <p>
  <!-- 
 ## Connect with Me
