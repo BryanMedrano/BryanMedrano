@@ -28,11 +28,7 @@ I'm a System Engineering student at the Universidad de Antioquia. I am expanding
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-### ⚙️ &nbsp;GitHub Stats
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BryanMedrano&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMedrano&theme=react&layout=compact" />
-</p>
+
 
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
